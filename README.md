@@ -9,9 +9,9 @@ A comprehensive MERN stack telemedicine application enabling seamless healthcare
 - 🔍 Search doctors by specialization, fees, and location
 - 📅 Book appointments with real-time availability
 - 📱 Video consultation with doctors
-- 🏥 Find nearby hospitals and pharmacies
+- 🏥 Find nearby hospitals and pharmacies in your cities
 - 🚨 Quick access to emergency services
-- 💳 Secure payment through Razorpay
+- 💳 Secure payment 
 - 📋 Digital prescription management
 - 💊 Medicine reminder system
 - 📊 Health tracking dashboard
@@ -278,10 +278,6 @@ vercel
 # Set environment variables in Vercel dashboard
 ```
 
-## 📞 Support
-
-For detailed setup instructions, see [SETUP_GUIDE.md](./SETUP_GUIDE.md)
-
 ## 📄 License
 
 This project is licensed under the MIT License.
@@ -292,9 +288,3 @@ This project is licensed under the MIT License.
 - Frontend Development
 - Database Design
 - API Integration
-
----
-
-**Version:** 1.0.0  
-**Last Updated:** 2024  
-**Status:** Production Ready ✅
